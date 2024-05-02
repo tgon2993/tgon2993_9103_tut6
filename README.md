@@ -17,9 +17,9 @@ This code example uses the random number generation, Angle calculation and color
 For example, we can adjust the parameters in the createPattern function to control the shape and color of the lines, so that the resulting pattern is closer to the desired effect.
 
 ![An image of Example](Assets/part_2.png)
-[Link Text](https://editor.p5js.org/ICantRemember/sketches/QqjpuLphA)
+
+[Coding Technique Link ](https://editor.p5js.org/ICantRemember/sketches/QqjpuLphA)
 
 ## Refence
 > P5.js Showcase. (n.d.). Retrieved May 1, 2024, from https://showcase.p5js.org/#/2022-All/pattern-creator/
 > Rafal Bromirski: Behance. (n.d.). Retrieved May 1, 2024, from https://www.behance.net/rafalbromirski
-
